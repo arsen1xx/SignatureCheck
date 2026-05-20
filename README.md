@@ -34,18 +34,23 @@
 ## 🚀 Встановлення
 
 Проєкт використовує лише вбудовані модулі Node.js — додаткових залежностей немає.
+---
+
+Щоб зробити клон репозиторія нажміть на кнопку 1, а потім скопіюйте посилання кнопкою 2
 
 
-![Screnshot] (https://github.com/PokotyloTaras/key_creating_and_signing/blob/main/Assets/copying.png)
 
+<img width="1076" height="650" alt="copying" src="https://github.com/user-attachments/assets/4a6bd579-1d87-4b86-b1e5-280e092ae45b" />
 
-> Переконайтеся, що у вас встановлено [Node.js](https://nodejs.org/) версії **14** або вище.
+Далі відкрийте CMD де введіть git clone та вставе скопійоване посилання
+
 
 ---
 
 ## 📁 Структура проєкту
 
 ```
+
 rsa-signature-toolkit/
 ├── generateKeys.js     # Генерація RSA-ключів
 ├── signFile.js         # Підписання файлу
