@@ -61,7 +61,7 @@ rsa-signature-toolkit/
 
 ---
 
-Далі відкрийте CMD де введіть git clone та вставе скопійоване посилання
+Далі відкрийте CMD, де введіть git clone та вставе скопійоване посилання
 
 <img width="1185" height="671" alt="image" src="https://github.com/user-attachments/assets/648c32d4-c939-4e7d-9016-4f7bfff4d306" />
 
